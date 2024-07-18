@@ -16,6 +16,7 @@ velocities = np.array([[0, 0, 0], [0, 30e3, 0], [0, 47.87e3, 0], [0, 35e3, 0], [
 dt = 1.2*60 * 60 * 24  # Time step in seconds (1.2 days)
 total_time = 165 * 365 * 24 * 60 * 60  # 165 years in seconds (165 is Neptune's orbital period)
 
+
 # Number of bodies
 num_bodies = len(masses)
 
