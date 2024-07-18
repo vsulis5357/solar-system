@@ -7,3 +7,4 @@ The Jupyter Notebook simulation outputs the animation as a Gif file which can be
 Note that when changing the initial conditions of the simulation axes might need rescaling. 
 The Gif files get overwritten each time you run the script.
 
+Also note: running the .py script will display the animation much faster than Jupyter Notebook.
