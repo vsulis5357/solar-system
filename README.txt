@@ -9,3 +9,6 @@ The Gif files get overwritten each time you run the script on Jupyter.
 
 
 Also note: running the .py script from the terminal will display the animation much faster than Jupyter Notebook.
+
+
+![](https://komarev.com/ghpvc/?username=vsulis5357)
